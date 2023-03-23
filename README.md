@@ -1,3 +1,3 @@
 # typing speed
-Store all speed
+Welcome to our typing speed
 
